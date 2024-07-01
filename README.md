@@ -1,6 +1,6 @@
 <h1 align="center">
 Snake Game 🐍<br>
-Welcome to my Snake Game project! This is a classic snake game developed using Python and the Pygame library(Turtle).
+Welcome to my Snake Game project! This is a classic snake game developed using Python and the Turtle Graphics.
 </h1>
 
 
@@ -23,7 +23,7 @@ Welcome to my Snake Game project! This is a classic snake game developed using P
 <h3 align="left">Technologies Used:</h3>
 <ul>
 <li>Programming Language: Python</li>
-<li>Library: Pygame</li>
+<li>Library: Pygame(Turtle Graphics)</li>
 </ul>
 
 <h3 align="left">HOW TO PLAY: </h3>
